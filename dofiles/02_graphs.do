@@ -96,7 +96,63 @@ xtline total_cases_pop ///
 graph export ./graphs/total_cases_pop_6.png, replace wid(1000)	
 
 
+*********************************
+***** other graphs to test
+*********************************
 
+* graph of new cases (no smoothing)
+
+
+summ date
+local start = `r(min)'
+local end   = `r(max)' + 30
+
+xtline new_cases ///
+	, overlay ///
+		addplot((scatter new_cases date if tick==1, mcolor(black) msymbol(point) mlabel(country) mlabsize(vsmall) mlabcolor(black))) ///
+		ttitle("") ///
+		tlabel(`start'(15)`end', labsize(small) angle(vertical) grid) ///
+		title(COVID19 trends for European countries) ///
+		note(Source: ECDC via Our World in Data) ///
+		legend(off) ///
+		graphregion(fcolor(white))
+graph export ./graphs/new_cases_raw.png, replace wid(1000)	
+
+
+* graph of new cases (3-day moving average)
+
+summ date
+local start = `r(min)'
+local end   = `r(max)' + 30
+
+xtline new_cases_ma3 ///
+	, overlay ///
+		addplot((scatter new_cases_ma3 date if tick==1, mcolor(black) msymbol(point) mlabel(country) mlabsize(vsmall) mlabcolor(black))) ///
+		ttitle("") ///
+		tlabel(`start'(15)`end', labsize(small) angle(vertical) grid) ///
+		title(COVID19 trends for European countries) ///
+		note(Source: ECDC via Our World in Data) ///
+		legend(off) ///
+		graphregion(fcolor(white))
+graph export ./graphs/new_cases_ma3.png, replace wid(1000)	
+
+
+* graph of new cases (7-day moving average)
+
+summ date
+local start = `r(min)'
+local end   = `r(max)' + 30
+
+xtline new_cases_ma7 ///
+	, overlay ///
+		addplot((scatter new_cases_ma7 date if tick==1, mcolor(black) msymbol(point) mlabel(country) mlabsize(vsmall) mlabcolor(black))) ///
+		ttitle("") ///
+		tlabel(`start'(15)`end', labsize(small) angle(vertical) grid) ///
+		title(COVID19 trends for European countries) ///
+		note(Source: ECDC via Our World in Data) ///
+		legend(off) ///
+		graphregion(fcolor(white))
+graph export ./graphs/new_cases_ma7.png, replace wid(1000)	
 
 
 

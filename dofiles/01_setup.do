@@ -102,42 +102,48 @@ xtset id date
 
 
 *** generate 3-day smoothing averages of new cases/deaths
-tssmooth ma total_cases_ma  = total_cases , w(2 1 0) 
-tssmooth ma total_deaths_ma = total_deaths, w(2 1 0)
+tssmooth ma new_cases_ma3  = new_cases , w(2 1 0) 
+tssmooth ma new_deaths_ma3 = new_deaths, w(2 1 0)
 
-*** just for comparison
+*** generate 7-day smoothing averages of new cases/deaths
+tssmooth ma new_cases_ma7  = new_cases , w(6 1 0) 
+tssmooth ma new_deaths_ma7 = new_deaths, w(6 1 0)
 
-*sort country date
-*bysort country: gen total_cases_ma2 = (total_cases + total_cases[_n-1] + new_cases[_n-2]) / 3
-*br total_cases_ma total_cases_ma2
-*drop total_cases_ma2
 
-*** generate 3-day smoothing averages of totals
-tssmooth ma total_cases_pop_ma  = total_cases_pop , w(2 1 0)
-tssmooth ma total_deaths_pop_ma = total_deaths_pop, w(2 1 0)
+*** just for comparison. 
+
+sort country date
+bysort country: gen new_cases_ma3_2 = (new_cases + new_cases[_n-1] + new_cases[_n-2]) / 3
+br new_cases_ma3 new_cases_ma3_2
+compare new_cases_ma3 new_cases_ma3_2
+drop new_cases_ma3_2
+
+
 
 
 *** generating logs of variables
-gen total_cases_log  = log(total_cases)
-gen total_deaths_log = log(total_deaths)
+gen total_cases_log  	 = log(total_cases)
+gen total_deaths_log	 = log(total_deaths)
 gen total_cases_pop_log  = log(total_cases_pop)
 gen total_deaths_pop_log = log(total_deaths_pop)
 
 
 **** label the variables for completeness
 
-lab var id				"Country"
-lab var date			"Date"
+lab var id				 "Country"
+lab var date			 "Date"
 
 lab var total_cases  	 "Total cases"
 lab var total_deaths 	 "Total deaths"
 lab var total_cases_pop  "Total cases per one million population"
 lab var total_deaths_pop "Total deaths per one million population"
+lab var new_cases		 "New cases"
+lab var new_deaths		 "New deaths"
 
-lab var total_cases_ma  	 "Total cases (3-day MA)"
-lab var total_deaths_ma 	 "Total deaths (3-day MA)"
-lab var total_cases_pop_ma   "Total cases per one million population (3-day MA)"
-lab var total_deaths_pop_ma  "Total deaths per one million population (3-day MA)"
+lab var new_cases_ma3  	 "New cases (3-day moving average)"
+lab var new_deaths_ma3 	 "New deaths (3-day moving average)"
+lab var new_cases_ma7  	 "New cases (7-day moving average)"
+lab var new_deaths_ma7 	 "New deaths (7-day moving average)"
 
 lab var total_cases_log  	  "Total cases (Log)"
 lab var total_deaths_log  	  "Total deaths (Log)"
@@ -151,4 +157,6 @@ lab var total_deaths_pop_log  "Total deaths per one million population (Log)"
 compress
 save ./master/COVID_data.dta, replace
 
+
+**** END OF FILE ****
 
