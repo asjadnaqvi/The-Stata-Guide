@@ -1,52 +1,52 @@
 name,state,EV,DEM,REP,OTH
-Alaska,AK,,33.50%,62.10%,4.40%
-Alabama,AL,9,36.40%,62.50%,1.10%
-Arkansas,AR,6,34.60%,62.60%,2.80%
-Arizona,AZ,11,49.60%,48.90%,1.50%
-California,CA,55,64.70%,33.30%,1.90%
-Colorado,CO,9,55.30%,42.10%,2.70%
-Connecticut,CT,7,58.10%,40.40%,1.50%
-District of Columbia,,3,93.40%,5.20%,1.40%
-Delaware,DE,3,58.80%,39.80%,1.40%
-Florida,FL,29,47.90%,51.20%,0.90%
-Georgia,GA,,49.50%,49.30%,1.20%
-Hawaii,HI,4,63.70%,34.30%,2.00%
-Iowa,IA,6,45.00%,53.20%,1.80%
-Idaho,ID,4,33.10%,63.90%,3.00%
-Illinois,IL,20,55.80%,42.30%,1.90%
-Indiana,IN,11,41.00%,57.10%,1.90%
-Kansas,KS,6,41.30%,56.50%,2.20%
-Kentucky,KY,8,36.20%,62.10%,1.70%
-Louisiana,LA,8,39.90%,58.50%,1.70%
-Massachusetts,MA,11,65.60%,32.60%,1.80%
-Maryland,MD,10,63.30%,35.00%,1.80%
-Maine,ME,4,52.90%,44.20%,2.90%
-Michigan,MI,16,50.60%,47.90%,1.50%
-Minnesota,MN,10,52.60%,45.40%,2.00%
-Missouri,MO,10,41.30%,56.90%,1.80%
-Mississippi,MS,6,38.80%,59.70%,1.40%
-Montana,MT,3,40.60%,56.90%,2.50%
-North Carolina,NC,,48.70%,50.10%,1.20%
-North Dakota,ND,3,31.90%,65.50%,2.60%
-Nebraska,NE,4,39.30%,58.60%,2.10%
-New Hampshire,NH,4,52.80%,45.60%,1.60%
-New Jersey,NJ,14,58.80%,40.10%,1.10%
-New Mexico,NM,5,54.20%,43.60%,2.20%
-Nevada,NV,6,49.90%,47.90%,2.20%
-New York,NY,29,55.70%,43.00%,1.30%
-Ohio,OH,18,45.20%,53.40%,1.40%
-Oklahoma,OK,7,32.30%,65.40%,2.30%
-Oregon,OR,7,57.00%,40.60%,2.40%
-Pennsylvania,PA,20,49.70%,49.20%,1.20%
-Rhode Island,RI,4,59.50%,39.10%,1.50%
-South Carolina,SC,9,43.40%,55.10%,1.50%
-South Dakota,SD,3,35.60%,61.80%,2.60%
-Tennessee,TN,11,37.40%,60.70%,1.90%
-Texas,TX,38,46.40%,52.20%,1.40%
-Utah,UT,6,37.70%,58.40%,3.90%
-Virginia,VA,13,54.00%,44.50%,1.50%
-Vermont,VT,3,66.40%,30.80%,2.70%
-Washington,WA,12,58.90%,38.60%,2.50%
-Wisconsin,WV,10,49.60%,48.90%,1.50%
-West Virginia,WI,5,29.60%,68.70%,1.70%
-Wyoming,WY,3,26.70%,70.40%,2.90%
+Alaska,AK,,0.335,0.621,0.044
+Alabama,AL,9,0.364,0.625,0.011
+Arkansas,AR,6,0.346,0.626,0.028
+Arizona,AZ,11,0.496,0.489,0.015
+California,CA,55,0.647,0.333,0.019
+Colorado,CO,9,0.553,0.421,0.027
+Connecticut,CT,7,0.581,0.404,0.015
+District of Columbia,,3,0.934,0.052,0.014
+Delaware,DE,3,0.588,0.398,0.014
+Florida,FL,29,0.479,0.512,0.009
+Georgia,GA,,0.495,0.493,0.012
+Hawaii,HI,4,0.637,0.343,0.02
+Iowa,IA,6,0.45,0.532,0.018
+Idaho,ID,4,0.331,0.639,0.03
+Illinois,IL,20,0.558,0.423,0.019
+Indiana,IN,11,0.41,0.571,0.019
+Kansas,KS,6,0.413,0.565,0.022
+Kentucky,KY,8,0.362,0.621,0.017
+Louisiana,LA,8,0.399,0.585,0.017
+Massachusetts,MA,11,0.656,0.326,0.018
+Maryland,MD,10,0.633,0.35,0.018
+Maine,ME,4,0.529,0.442,0.029
+Michigan,MI,16,0.506,0.479,0.015
+Minnesota,MN,10,0.526,0.454,0.02
+Missouri,MO,10,0.413,0.569,0.018
+Mississippi,MS,6,0.388,0.597,0.014
+Montana,MT,3,0.406,0.569,0.025
+North Carolina,NC,,0.487,0.501,0.012
+North Dakota,ND,3,0.319,0.655,0.026
+Nebraska,NE,4,0.393,0.586,0.021
+New Hampshire,NH,4,0.528,0.456,0.016
+New Jersey,NJ,14,0.588,0.401,0.011
+New Mexico,NM,5,0.542,0.436,0.022
+Nevada,NV,6,0.499,0.479,0.022
+New York,NY,29,0.557,0.43,0.013
+Ohio,OH,18,0.452,0.534,0.014
+Oklahoma,OK,7,0.323,0.654,0.023
+Oregon,OR,7,0.57,0.406,0.024
+Pennsylvania,PA,20,0.497,0.492,0.012
+Rhode Island,RI,4,0.595,0.391,0.015
+South Carolina,SC,9,0.434,0.551,0.015
+South Dakota,SD,3,0.356,0.618,0.026
+Tennessee,TN,11,0.374,0.607,0.019
+Texas,TX,38,0.464,0.522,0.014
+Utah,UT,6,0.377,0.584,0.039
+Virginia,VA,13,0.54,0.445,0.015
+Vermont,VT,3,0.664,0.308,0.027
+Washington,WA,12,0.589,0.386,0.025
+Wisconsin,WV,10,0.496,0.489,0.015
+West Virginia,WI,5,0.296,0.687,0.017
+Wyoming,WY,3,0.267,0.704,0.029
