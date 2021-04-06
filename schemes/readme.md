@@ -19,3 +19,12 @@ You can try various graphs either using this test data set:
 or use your own dataset!
 
 Please report errors or bugs or suggestions if you find any.
+
+
+## Scheme: white_tableau
+
+<img src="./figures/scatter_white_tableau.png" height="200"><img src="./figures/line_white_tableau.png" height="200">
+<img src="./figures/bar_white_tableau.png" height="200"><img src="./figures/barh_white_tableau.png" height="200">
+<img src="./figures/pie_white_tableau.png" height="200"><img src="./figures/density_white_tableau.png" height="200">
+<img src="./figures/ci_white_tableau.png" height="200"><img src="./figures/rcap_white_tableau.png" height="200">
+<img src="./figures/box_white_tableau.png" height="200">
