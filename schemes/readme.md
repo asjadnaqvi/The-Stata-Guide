@@ -10,9 +10,11 @@ This folder will be filled up with dozens of schemes. Since this is a test run, 
 * The graph folder contains the sample figures.
 
 
-## How to use the themes:
+## How to use the schemes:
 
-Install the scheme:
+The dofile in the folder can be copied and executed in Stata. Otherwise:
+
+Install the schemes:
 > net install schemes, from("https://github.com/asjadnaqvi/The-Stata-Guide/raw/master/schemes")
 
 You can try various graphs either using this test data set:
@@ -20,8 +22,9 @@ You can try various graphs either using this test data set:
 
 or use your own dataset!
 
-Please report errors or bugs or suggestions if you find any.
 
+*Note: This is a beta page. Links might get updated. please check here for the latest version*
+Please report errors or bugs or suggestions if you find any. 
 
 ## Scheme: white_tableau
 <img src="./figures/scatter_white_tableau.png" height="200"><img src="./figures/line_white_tableau.png" height="200">
