@@ -23,7 +23,7 @@ You can try various graphs either using this test data set:
 or use your own dataset!
 
 
-*Note: This is a beta page. Links might get updated. please check here for the latest version.* Please report errors or bugs or suggestions if you find any. 
+*Note: This is a beta page. Links might get updated. Please check here for the latest version.* Please report errors or bugs or suggestions if you find any. 
 
 ## Scheme: white_tableau
 <img src="./figures/scatter_white_tableau.png" height="200"><img src="./figures/line_white_tableau.png" height="200">
