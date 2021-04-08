@@ -1,5 +1,6 @@
-This folder contains various files for [The Stata Guide on Medium](https://medium.com/the-stata-guide)
+# Welcome to the Stata Guide!
 
+This folder contains various files for [The Stata Guide on Medium](https://medium.com/the-stata-guide)
 
 [An introduction to data setup and customized graphs can be found here](https://medium.com/the-stata-guide/covid-19-data-visualization-with-stata-part-1-an-introduction-to-data-setup-and-customized-6b879a1e8647)
 
