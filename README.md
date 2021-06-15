@@ -25,14 +25,16 @@ Hop in the [The Code Block](https://discord.gg/x6VGAXay) Discord server!
 
 ### How can you support the guides?
 
-You can support this work by:
+These guides are meant as a public service and I really enjoy writing them. But if you want to support them, then you can:
 
-* Subscribing to [The Stata Guide](https://medium.com/the-stata-guide) on [Medium](https://medium.com)
+
+Become a member on [Medium](https://medium.com) and subscribe and read the guides. This also gives you access to a lot of other content.
 
 or 
 
-* Making a small donation via PayPal
+Make a small donation via PayPal
+ 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=RQKQKHCN3YSSJ)
 
 
-But these are completely optional! I really enjoying writing the guides and sharing them.
+These options are completely optional :)
