@@ -12,12 +12,27 @@ Article here: [Graph replication: The Du Bois Challenge](https://medium.com/the-
 Files here: https://github.com/asjadnaqvi/DuBoisChallenge-Stata
 
 
-
 ### Stata graph schemes
 https://github.com/asjadnaqvi/Stata-schemes
 
 
-If you like the guides, you can also support them via PayPal:
+### Have questions?
 
+Hop in the [The Code Block](https://discord.gg/x6VGAXay) Discord server!
+
+
+
+
+### How can you support the guides?
+
+You can support this work by:
+
+* Subscribing to [The Stata Guide](https://medium.com/the-stata-guide) on [Medium](https://medium.com)
+
+or 
+
+* Making a small donation via PayPal
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=RQKQKHCN3YSSJ)
 
+
+But these are completely optional! I really enjoying writing the guides and sharing them.
