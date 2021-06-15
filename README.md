@@ -18,5 +18,6 @@ https://github.com/asjadnaqvi/Stata-schemes
 
 
 If you like the guides, you can also support them via PayPal:
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=RQKQKHCN3YSSJ)
 
