@@ -39,7 +39,7 @@ These guides are meant as a public service and I really enjoy writing them, and 
 But if you want to support the content creation, then you can:
 
 
-(a) become a member on [Medium](https://medium.com) and subscribe and read the guides. This also gives you access to a lot of other awesome content as well.
+(a) become a member on [Medium](https://medium.com) and subscribe and read the guides. This gives you access to a lot of other awesome content as well.
 
 or 
 
