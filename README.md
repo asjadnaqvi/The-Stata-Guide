@@ -16,6 +16,12 @@ Files here: https://github.com/asjadnaqvi/DuBoisChallenge-Stata
 https://github.com/asjadnaqvi/Stata-schemes
 
 
+### Cheat Sheets
+
+[regex](Stata_regex_cheatsheet_v1.pdf)
+[Mata](MATA_cheatsheet_v3.pdf)
+
+
 ### Have questions?
 
 Hop in the [The Code Block](https://discord.gg/x6VGAXay) Discord server!
