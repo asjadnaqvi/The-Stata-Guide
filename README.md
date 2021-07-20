@@ -34,7 +34,7 @@ I get a lot of e-mails with code and data files and now it is hard to keep track
 
 ### How can you support the guides?
 
-These guides are meant as a public service and I really enjoy writing them, and getting feedback from you guys. 
+These guides are meant as a public service and I really enjoy writing them and getting feedback from you guys. 
 
 But if you want to support the content creation, then you can:
 
@@ -43,9 +43,9 @@ But if you want to support the content creation, then you can:
 
 or 
 
-(b) make some small donation via PayPal (several people ask for this so I set it up):
+(b) you can:
  
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=RQKQKHCN3YSSJ)
+[!["Buy Me A Coffee!!!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asjadnaqvi)
 
 
-These options are completely optional :)
+These options are completely optional :sunglasses:
