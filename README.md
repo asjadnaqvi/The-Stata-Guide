@@ -24,7 +24,7 @@ https://github.com/asjadnaqvi/Stata-schemes
 
 ### Stata UK conference 2021 presentation
 
-
+[Presentation](./presentations/Stata_viz_2021.pdf)
 
 
 ### Have questions?
