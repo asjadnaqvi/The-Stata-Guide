@@ -93,11 +93,13 @@ https://github.com/asjadnaqvi/Stata-schemes
 
 
 [Regular Expressions Cheatsheet](Stata_regex_cheatsheet_v1.pdf)
+
 <img src="./graphs/Stata_regex_cheatsheet_v1.png" height="300" title="regex">
 
 
 
 [Mata Cheatsheet](MATA_cheatsheet_v3.pdf)
+
 <img src="./graphs/MATA_cheatsheet_v3.png" height="300" title="mata">
 
 
