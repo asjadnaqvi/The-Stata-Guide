@@ -2,7 +2,7 @@
 
 This folder contains various files for [The Stata Guide on Medium](https://medium.com/the-stata-guide). 
 
-### The list of guides
+### The list of guides (date published)
 
 [Stata graphs: Arc plots](https://medium.com/the-stata-guide/stata-graphs-arc-plots-eb87015510e6)	*(06-Oct-21)*
 
