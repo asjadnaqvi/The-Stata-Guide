@@ -2,7 +2,9 @@
 
 This folder contains various files for [The Stata Guide on Medium](https://medium.com/the-stata-guide). 
 
-### The list of guides (date published)
+### The list of guides (date published in brackets)
+
+[Stata graphs: Waffle charts](https://medium.com/the-stata-guide/stata-graphs-waffle-charts-32afc7d6f6dd) *(12-Oct-21)*
 
 [Stata graphs: Arc plots](https://medium.com/the-stata-guide/stata-graphs-arc-plots-eb87015510e6)	*(06-Oct-21)*
 
