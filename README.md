@@ -12,7 +12,7 @@ This folder contains various files for [The Stata Guide on Medium](https://mediu
 
 [The Art of the Code](https://medium.com/the-stata-guide/the-art-of-the-code-e3d44efd84cb)	*(27-Aug-21)*
 
-[Maps in Stata II](https://medium.com/the-stata-guide/maps-in-stata-ii-fcb574270269)	*(10-Aug-21)*
+[Maps in Stata II](https://medium.com/the-stata-guide/maps-in-stata-ii-fcb574270269)	*(10-Aug-21)* *(updated: 19-Oct-21)*
 
 [Stata graphs: Rose (Coxcomb) plots](https://medium.com/the-stata-guide/stata-graphs-rose-coxcomb-plots-5a8af366b39b)	*(19-Jul-21)*
 
