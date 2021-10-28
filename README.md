@@ -4,6 +4,8 @@ This folder contains various files for [The Stata Guide on Medium](https://mediu
 
 ### The list of guides (date published in brackets)
 
+[Stata graphs: Sankey diagram](https://medium.com/the-stata-guide/stata-graphs-sankey-diagram-ecddd112aca1) *(26-Oct-21)*
+
 [Stata graphs: Waffle charts](https://medium.com/the-stata-guide/stata-graphs-waffle-charts-32afc7d6f6dd) *(12-Oct-21)*
 
 [Stata graphs: Arc plots](https://medium.com/the-stata-guide/stata-graphs-arc-plots-eb87015510e6)	*(06-Oct-21)*
@@ -96,13 +98,13 @@ https://github.com/asjadnaqvi/Stata-schemes
 
 [Regular Expressions Cheatsheet](Stata_regex_cheatsheet_v1.pdf)
 
-<img src="./graphs/Stata_regex_cheatsheet_v1.png" height="300" title="regex">
+<img src="./graphs/Stata_regex_cheatsheet_v1.png" height="400" title="regex">
 
 
 
 [Mata Cheatsheet](MATA_cheatsheet_v3.pdf)
 
-<img src="./graphs/MATA_cheatsheet_v3.png" height="300" title="mata">
+<img src="./graphs/MATA_cheatsheet_v3.png" height="800" title="mata">
 
 
 
