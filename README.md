@@ -115,7 +115,7 @@ https://github.com/asjadnaqvi/Stata-schemes
 
 ### Have questions?
 
-Hop in the [The Code Block](https://discord.gg/x6VGAXay) Discord server and ask your questions!
+Hop in the [The Code Block](https://discord.gg/qpHZtX6Xkk) Discord server and ask your questions!
 
 I get a lot of e-mails with code and data files and now it is hard to keep track on who is requesting what. At least in Discord several people can answer your questions. This also helps document the problems for other people.
 
