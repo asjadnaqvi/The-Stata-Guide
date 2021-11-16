@@ -4,6 +4,9 @@ This folder contains various files for [The Stata Guide on Medium](https://mediu
 
 ### The list of guides (date published in brackets)
 
+
+The guide will resume in Dec 2021 after I am done with the [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge). You can see some of my entries in the [folder](/30DayMapChallenge2021) above. 
+
 [Stata graphs: Sankey diagram](https://medium.com/the-stata-guide/stata-graphs-sankey-diagram-ecddd112aca1) *(26-Oct-21)*
 
 [Stata graphs: Waffle charts](https://medium.com/the-stata-guide/stata-graphs-waffle-charts-32afc7d6f6dd) *(12-Oct-21)*
@@ -39,6 +42,7 @@ This folder contains various files for [The Stata Guide on Medium](https://mediu
 [Regular expressions (regex) in Stata](https://medium.com/the-stata-guide/regular-expressions-regex-in-stata-6e5c200ef27c) [Cheatsheet](Stata_regex_cheatsheet_v1.pdf)	*(17-Mar-21)*
 
 [Stata graphs: Programming pie charts from scratch](https://medium.com/the-stata-guide/stata-graphs-programming-pie-charts-from-scratch-bddcfc689034)	*(10-Mar-21)*
+
 [The Stata-to-LaTeX guide](https://medium.com/the-stata-guide/the-stata-to-latex-guide-6e7ed5622856)	*(25-Feb-21)*
 
 [Stata graphs: Hearts ♥](https://medium.com/the-stata-guide/i-stata-391736dc6bad)	*(14-Feb-21)*
