@@ -2,11 +2,10 @@
 
 This folder contains various files for [The Stata Guide on Medium](https://medium.com/the-stata-guide). 
 
+See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata. Guides on these coming soon!* 
 
-*The guide will resume in Dec 2021 after I am done with the [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge). You can see some of my entries in the [folder](/30DayMapChallenge2021) above.* 
 
 ### The list of guides (date published in brackets)
-
 
 [Stata graphs: Sankey diagram](https://medium.com/the-stata-guide/stata-graphs-sankey-diagram-ecddd112aca1) *(26-Oct-21)*
 
