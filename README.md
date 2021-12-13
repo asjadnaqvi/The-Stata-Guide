@@ -7,6 +7,10 @@ See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayM
 
 ### The list of guides (date published in brackets)
 
+[Stata graphs: Bi-variate maps](https://medium.com/the-stata-guide/stata-graphs-bi-variate-maps-b1e96dd4c2be) *(07-Dec-21)*
+
+[Doing the 2021 #30DayMapChallenge with Stata](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e) *(02-Dec-21)*
+
 [Stata graphs: Sankey diagram](https://medium.com/the-stata-guide/stata-graphs-sankey-diagram-ecddd112aca1) *(26-Oct-21)*
 
 [Stata graphs: Waffle charts](https://medium.com/the-stata-guide/stata-graphs-waffle-charts-32afc7d6f6dd) *(12-Oct-21)*
@@ -23,7 +27,7 @@ See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayM
 
 [Maximum Likelihood Estimation (MLE)](https://medium.com/the-stata-guide/maximum-likelihood-estimation-mle-88b869158a7d)	*(05-Jul-21)*
 
-[Mata: Stata’s End Game](https://medium.com/the-stata-guide/mata-statas-end-game-5983c0ee11bd) [Cheatsheet](MATA_cheatsheet_v3.pdf)	*(24-Jun-21)*
+[Mata: Stata’s End Game](https://medium.com/the-stata-guide/mata-statas-end-game-5983c0ee11bd) ([A0 cheatsheet poster](MATA_cheatsheet_v3.pdf))	*(24-Jun-21)*
 
 [The Stata Workflow Guide](https://medium.com/the-stata-guide/the-stata-workflow-guide-52418ce35006)	*(07-Jun-21)*
 
@@ -39,7 +43,7 @@ See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayM
 
 [Stata graphs: Spirals and text wrapping](https://medium.com/the-stata-guide/stata-graphs-spirals-and-text-wrapping-628ea333cc21)	*(29-Mar-21)*
 
-[Regular expressions (regex) in Stata](https://medium.com/the-stata-guide/regular-expressions-regex-in-stata-6e5c200ef27c) [Cheatsheet](Stata_regex_cheatsheet_v1.pdf)	*(17-Mar-21)*
+[Regular expressions (regex) in Stata](https://medium.com/the-stata-guide/regular-expressions-regex-in-stata-6e5c200ef27c) ([A3 cheatsheet poster](Stata_regex_cheatsheet_v1.pdf))	*(17-Mar-21)*
 
 [Stata graphs: Programming pie charts from scratch](https://medium.com/the-stata-guide/stata-graphs-programming-pie-charts-from-scratch-bddcfc689034)	*(10-Mar-21)*
 
