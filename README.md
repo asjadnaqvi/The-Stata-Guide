@@ -112,8 +112,22 @@ Article here: [Graph replication: The Du Bois Challenge](https://medium.com/the-
 Files here: https://github.com/asjadnaqvi/DuBoisChallenge-Stata
 
 
-### Stata graph schemes
-https://github.com/asjadnaqvi/Stata-schemes
+### Stata "schemepack" for graphs
+https://github.com/asjadnaqvi/Stata-schemes (now on SSC!)
+
+
+
+### Stata UK conference 2021 presentation
+
+[Presentation](./presentations/Stata_viz_2021.pdf)
+
+
+### 30 Day Map Challenge 2021
+
+See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata.
+
+A short write-up on [Medium here](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e).
+
 
 
 ### Cheat Sheets
@@ -131,16 +145,6 @@ https://github.com/asjadnaqvi/Stata-schemes
 
 
 
-### Stata UK conference 2021 presentation
-
-[Presentation](./presentations/Stata_viz_2021.pdf)
-
-
-### 30 Day Map Challenge 2021
-
-See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata.
-
-A short write-up on [Medium here](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e).
 
 
 
