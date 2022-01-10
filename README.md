@@ -138,7 +138,7 @@ https://github.com/asjadnaqvi/Stata-schemes
 
 See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata.
 
-A short write-up on [Medium here](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e)
+A short write-up on [Medium here](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e).
 
 
 
