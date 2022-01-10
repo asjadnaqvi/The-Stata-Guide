@@ -5,6 +5,8 @@ This repository contains various links and files to help you navigate [**The Sta
 
 ### The list of guides (date published in brackets)
 
+The guides marked with :triangular_flag_on_post: get periodic updates.
+
 
 **2022**
 
@@ -27,11 +29,11 @@ This repository contains various links and files to help you navigate [**The Sta
 
 [Stata graphs: Arc plots](https://medium.com/the-stata-guide/stata-graphs-arc-plots-eb87015510e6)	*(06-Oct-21)*
 
-[Welcome to the Stata Guide](https://medium.com/the-stata-guide/welcome-to-the-stata-guide-12adf81ec3d)	*(15-Sep-21)*
+[Welcome to the Stata Guide](https://medium.com/the-stata-guide/welcome-to-the-stata-guide-12adf81ec3d):triangular_flag_on_post: 	*(15-Sep-21)*
 
 [The Art of the Code](https://medium.com/the-stata-guide/the-art-of-the-code-e3d44efd84cb)	*(27-Aug-21)*
 
-[Maps in Stata II](https://medium.com/the-stata-guide/maps-in-stata-ii-fcb574270269)	*(10-Aug-21)* *(updated: 19-Oct-21)*
+[Maps in Stata II](https://medium.com/the-stata-guide/maps-in-stata-ii-fcb574270269):triangular_flag_on_post:	*(10-Aug-21)*
 
 [Stata graphs: Rose (Coxcomb) plots](https://medium.com/the-stata-guide/stata-graphs-rose-coxcomb-plots-5a8af366b39b)	*(19-Jul-21)*
 
@@ -39,7 +41,7 @@ This repository contains various links and files to help you navigate [**The Sta
 
 [Mata: Stata’s End Game](https://medium.com/the-stata-guide/mata-statas-end-game-5983c0ee11bd) ([A0 cheatsheet poster](MATA_cheatsheet_v3.pdf))	*(24-Jun-21)*
 
-[The Stata Workflow Guide](https://medium.com/the-stata-guide/the-stata-workflow-guide-52418ce35006)	*(07-Jun-21)*
+[The Stata Workflow Guide](https://medium.com/the-stata-guide/the-stata-workflow-guide-52418ce35006):triangular_flag_on_post:	*(07-Jun-21)*
 
 [Stata and GitHub Integration](https://medium.com/the-stata-guide/stata-and-github-integration-8c87ddf9784a)	*(27-Apr-21)*
 
@@ -57,7 +59,7 @@ This repository contains various links and files to help you navigate [**The Sta
 
 [Stata graphs: Programming pie charts from scratch](https://medium.com/the-stata-guide/stata-graphs-programming-pie-charts-from-scratch-bddcfc689034)	*(10-Mar-21)*
 
-[The Stata-to-LaTeX guide](https://medium.com/the-stata-guide/the-stata-to-latex-guide-6e7ed5622856)	*(25-Feb-21)*
+[The Stata-to-LaTeX guide](https://medium.com/the-stata-guide/the-stata-to-latex-guide-6e7ed5622856):triangular_flag_on_post:	*(25-Feb-21)*
 
 [Stata graphs: Hearts ♥](https://medium.com/the-stata-guide/i-stata-391736dc6bad)	*(14-Feb-21)*
 
