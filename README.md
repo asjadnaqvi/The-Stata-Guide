@@ -2,10 +2,20 @@
 
 This folder contains various files for [The Stata Guide on Medium](https://medium.com/the-stata-guide). 
 
-See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata. Guides on these coming soon!* 
-
 
 ### The list of guides (date published in brackets)
+
+
+**2022**
+
+[The Stata Frames guide](https://medium.com/the-stata-guide/the-stata-frames-guide-1149b50864e3)  *(04 Jan 2022)*
+
+
+**2021**
+
+[Stata graphs: Tilemaps part II - USA](https://medium.com/the-stata-guide/stata-graphs-tilemaps-part-ii-usa-48355d366157)  *(16 Dec 2021)*
+
+[Stata graphs: Tilemaps part I - Africa](https://medium.com/the-stata-guide/stata-graphs-tilemaps-part-i-africa-9c0b28c30066)  *(14 Dec 2021)*
 
 [Stata graphs: Bi-variate maps](https://medium.com/the-stata-guide/stata-graphs-bi-variate-maps-b1e96dd4c2be) *(07-Dec-21)*
 
@@ -58,6 +68,9 @@ See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayM
 [Stata graphs: Polar (Radial) Plots](https://medium.com/the-stata-guide/stata-graphs-polar-radial-plots-c19e705b56aa) *(19-Jan-21)*
 
 [Stata graphs: How to add arrows to your line graphs](https://medium.com/the-stata-guide/stata-graphs-how-to-add-arrows-to-your-line-graphs-69c1c08949c7)	*(07-Jan-21)*
+
+
+**2020**
 
 [Why the Stata Guide on Medium?](https://medium.com/the-stata-guide/why-the-stata-guide-on-medium-4b9b9d00a172)	*(12-Dec-20)*
 
@@ -119,6 +132,14 @@ https://github.com/asjadnaqvi/Stata-schemes
 ### Stata UK conference 2021 presentation
 
 [Presentation](./presentations/Stata_viz_2021.pdf)
+
+
+### 30 Day Map Challenge 2021
+
+See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata.
+
+A short write-up on [Medium here](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e)
+
 
 
 ### Have questions?
