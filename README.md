@@ -1,6 +1,6 @@
 # Welcome to the Stata Guide!
 
-This repository contains various links and files to help you navigate [**The Stata Guide on Medium**](https://medium.com/the-stata-guide). 
+This repository contains various links and files to help you navigate [**The Stata Guide on Medium**](https://medium.com/the-stata-guide). If you have not visited the Medium publication page, you can get an overview in the [Welcome to the Stata Guide](https://medium.com/the-stata-guide/welcome-to-the-stata-guide-12adf81ec3d) article.
 
 
 ### The list of guides (date published in brackets)
