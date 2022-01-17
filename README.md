@@ -10,6 +10,8 @@ The guides marked with :triangular_flag_on_post: get periodic updates.
 
 **2022**
 
+[The awesome Stata Tips collection!](https://medium.com/the-stata-guide/the-awesome-stata-tips-collection-6805afdedffa) :triangular_flag_on_post: *(11 Jan 2022)*
+
 [The Stata Frames guide](https://medium.com/the-stata-guide/the-stata-frames-guide-1149b50864e3)  *(04 Jan 2022)*
 
 
