@@ -9,8 +9,7 @@ Date: 22 Feb 2022 (Tuesday)
 Time: 1300-1430 GMT
 Location: Online
 
-More info here:
-https://www2.stata-uk.com/maps-in-stata-101-asjad-naqvi…
+More info and registration: https://www2.stata-uk.com/maps-in-stata-101-asjad-naqvi…
 
 
 # Maps in Stata 2 (Friday)
@@ -21,13 +20,14 @@ Date: 25 Feb 2022
 Time: 0930-1230 GMT
 Location: Online
 
+More info and registration: https://www.stata-uk.com/courses/maps-in-stata-2.html
 
-The course has a small fee (GBP 80). If you are from the global South, and/or cannot pay, you can get in by doing the following quiz:
+The course has a small fee of GBP 80. If you are from the global South, and/or cannot pay, you can get in by doing the following quiz:
 
 
 # Quiz
 
-Once you have answered the questions, fill out the information, including the code on the [**Stata Quiz 2022 form**](https://forms.gle/uCj8cET9BNF9qQaA9).
+Once you have answered the questions, fill out the information, including the code on the [**Stata Quiz 2022 form**](https://forms.gle/uCj8cET9BNF9qQaA9). You can modify entries even after you have submitted the form but it will change the timestamp.
 
 
 ##Problem set 1
