@@ -44,14 +44,13 @@ Discord server: https://discord.com/invite/qpHZtX6Xkk
 
 ## Problem set 1
 
-The file **problemset1.dta** contains data with the following variables: ID = country id, X = x-coordinate, Y = y-coordinate, shape_order = the order of the points
+The file **problemset1.dta** contains data with the following variables: _ID = country id, _X = x-coordinate, _Y = y-coordinate, shape_order = the order of the points. In order to read it as a shapefile, we need to add a blank row before each group. Do the following:
 
-In order to read it as a shapefile, we need to add a blank row before each group. Do the following:
 1.	Add an empty row before each group
 2.	Assign it the correct _ID
 3.	Regenerate the shape_order variable such that the blank row has shape_order = 1 for each _ID, and the remaining rows have their current shape_order incremented by one.
 
-If your code is working correctly, then the following code should yield the correct map:
+If your code is working correctly, then the following code should show the correct map:
 
 ```
 twoway (area _Y _X, nodropbase cmissing(no))
@@ -65,28 +64,28 @@ The file **problemset2.dta** contains the outline of Denmark, which is made up o
 twoway (area _Y _X, nodropbase cmissing(no))
 ```
 
-In the Stata shapefiles file, each island is separated out by a blank row, which you can view by scrolling down the data browser window.
+In the Stata shapefiles file, each island is separated out by a blank row, which you can view by scrolling down the data browser window. In the dataset do the following:
 
 1.	Identify all the islands in the data by assigning each a unique identifier
 2.	How many islands are there in this file?
 
 ## Problem set 3
 
-In the **problemset3.dta** file
+In the **problemset3.dta** file:
 
 1.	Sort the columns pairs (x1,y1), (x2, y2),…(x5,y5) so that each column pair is in ascending order. Or x1, y1 are sorted from smaller numbers to higher numbers, and then x2, y2, etc.
 2.	Make sure the "id" column remains unchanged.
 
 ## Problem set 4
 
-In the **problemset4.dta** file
+In the **problemset4.dta** file:
 
 1.	Move up the entries of each column such that all the entries are stacked on top of each other and all the blanks at the bottom.
 2.	Make sure the "id" column remains unchanged
 
 ## Problem set 5
 
-The **problemset5.dta** contains entry from the Our World in Data COVID-19 database. It includes the date, continent, country, and total deaths in that country till the specified date.
+The **problemset5.dta** contains entry from the Our World in Data COVID-19 database. It includes the date, continent, country, and total deaths in that country till the specified date. Do the following:
 
 1.	Generate a new variable that is a percentage share of the total deaths for each continent for each country.
 2.	Check that the shares add up to 1 for each continent.
