@@ -35,9 +35,9 @@ Once you have answered the questions, fill out the information, including the co
 
 Have questions? Don't email! Ask on these threads:
 
-Twitter: 
+Twitter: https://twitter.com/AsjadNaqvi/status/1493239560347824139
 
-LinkedIn:
+LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:6899005787381805056/
 
 Discord server: https://discord.com/invite/qpHZtX6Xkk
 
