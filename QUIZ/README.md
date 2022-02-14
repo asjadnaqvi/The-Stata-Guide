@@ -33,6 +33,14 @@ The course has a small fee of GBP 80. If you are from the global South, and/or c
 
 Once you have answered the questions, fill out the information, including the code on the [**Stata Quiz 2022 form**](https://forms.gle/uCj8cET9BNF9qQaA9). You can modify entries even after you have submitted the form but it will change the timestamp.
 
+Have questions? Don't email! Ask on these threads:
+
+Twitter: 
+
+LinkedIn:
+
+Discord server: https://discord.com/invite/qpHZtX6Xkk
+
 
 ## Problem set 1
 
