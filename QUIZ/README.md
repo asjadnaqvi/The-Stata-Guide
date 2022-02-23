@@ -1,19 +1,3 @@
-
-
-
-# Maps in Stata 101
-
-The first course *Maps in Stata 101* will be repeated again if you missed it or want a refresher (and its free!)
-
-Date: 22 Feb 2022 (Tuesday)
-
-Time: 1300-1430 GMT
-
-Location: Online
-
-More info and registration: https://www2.stata-uk.com/maps-in-stata-101-asjad-naqvi…
-
-
 # Maps in Stata 2
 
 *Maps in Stata 2* is a three hour course on 25th Feb 2022, will dive deeper in making maps. Here we will learn how to deal with multiple layers, labels, and other modifications.
