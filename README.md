@@ -10,6 +10,8 @@ The guides marked with :triangular_flag_on_post: get periodic updates.
 
 **2022**
 
+[Stata graphs: Circular bar graphs](https://medium.com/the-stata-guide/stata-graphs-circular-bar-graphs-8180ea783826) :triangular_flag_on_post: *(11 March 2022)*
+
 [The awesome Stata Tips collection!](https://medium.com/the-stata-guide/the-awesome-stata-tips-collection-6805afdedffa) :triangular_flag_on_post: *(11 Jan 2022)*
 
 [The Stata Frames guide](https://medium.com/the-stata-guide/the-stata-frames-guide-1149b50864e3)  *(04 Jan 2022)*
@@ -107,6 +109,9 @@ The guides marked with :triangular_flag_on_post: get periodic updates.
 [COVID-19 visualizations with Stata Part 1: An Introduction to data setup and customized graphs](https://medium.com/the-stata-guide/covid-19-data-visualization-with-stata-part-1-an-introduction-to-data-setup-and-customized-6b879a1e8647)	*(25-Aug-20)*
 
 
+### Stata "schemepack" for graphs
+https://github.com/asjadnaqvi/Stata-schemes (now on SSC!)
+
 ### The Du Bois Challenge in Stata
 
 Article here: [Graph replication: The Du Bois Challenge](https://medium.com/the-stata-guide/graph-replication-the-du-bois-challenge-f0db93e719e6)
@@ -114,14 +119,7 @@ Article here: [Graph replication: The Du Bois Challenge](https://medium.com/the-
 Files here: https://github.com/asjadnaqvi/DuBoisChallenge-Stata
 
 
-### Stata "schemepack" for graphs
-https://github.com/asjadnaqvi/Stata-schemes (now on SSC!)
 
-
-
-### Stata UK conference 2021 presentation
-
-[Presentation](./presentations/Stata_viz_2021.pdf)
 
 
 ### 30 Day Map Challenge 2021
@@ -131,22 +129,23 @@ See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayM
 A short write-up on [Medium here](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e).
 
 
+### Stata presentations
+
+[Stata UK 2021 Keynote](./presentations/Stata_UK_conference_2021.pdf)
+[Stata Oceania 2022 Keynote](./presentations/Stata_Oceania_conference_Feb2022.pdf)
 
 ### Cheat Sheets
 
 
-[Regular Expressions Cheatsheet](Stata_regex_cheatsheet_v1.pdf)
+[Regular Expressions Cheatsheet](./Cheatsheets/Stata_regex_cheatsheet_v1.pdf)
 
-<img src="./graphs/Stata_regex_cheatsheet_v1.png" height="400" title="regex">
-
-
-
-[Mata Cheatsheet](MATA_cheatsheet_v3.pdf)
-
-<img src="./graphs/MATA_cheatsheet_v3.png" height="800" title="mata">
+<img src="./Cheatsheets/Stata_regex_cheatsheet_v1.png" height="400" title="regex">
 
 
 
+[Mata Cheatsheet](./Cheatsheets/MATA_cheatsheet_v3.pdf)
+
+<img src="./Cheatsheets/MATA_cheatsheet_v3.png" height="800" title="mata">
 
 
 
@@ -158,13 +157,11 @@ I get a lot of e-mails with code and data files and now it is hard to keep track
 
 
 
-
 ### How can you support the guides?
 
 These guides are meant as a public service and I really enjoy writing them and getting feedback from you guys. 
 
 But if you want to support the content creation, then you can:
-
 
 (a) become a member on [Medium](https://medium.com) and subscribe and read the guides. This gives you access to a lot of other awesome content as well.
 
@@ -172,7 +169,7 @@ or
 
 (b) you can:
  
-[!["Buy Me A Coffee!!!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asjadnaqvi)
+[!["Buy Me A Coffee!!"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/asjadnaqvi)
 
 
-These options are completely optional :sunglasses:
+:sunglasses:
