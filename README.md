@@ -10,11 +10,11 @@ The guides marked with :triangular_flag_on_post: get periodic updates.
 
 **2022**
 
-[Stata graphs: Circular bar graphs](https://medium.com/the-stata-guide/stata-graphs-circular-bar-graphs-8180ea783826) :triangular_flag_on_post: *(11 March 2022)*
+[Stata graphs: Circular bar graphs](https://medium.com/the-stata-guide/stata-graphs-circular-bar-graphs-8180ea783826) *(11 March 2022)*
 
 [The awesome Stata Tips collection!](https://medium.com/the-stata-guide/the-awesome-stata-tips-collection-6805afdedffa) :triangular_flag_on_post: *(11 Jan 2022)*
 
-[The Stata Frames guide](https://medium.com/the-stata-guide/the-stata-frames-guide-1149b50864e3)  *(04 Jan 2022)*
+[The Stata Frames guide](https://medium.com/the-stata-guide/the-stata-frames-guide-1149b50864e3) *(04 Jan 2022)*
 
 
 **2021**
@@ -114,36 +114,34 @@ https://github.com/asjadnaqvi/Stata-schemes (now on SSC!)
 
 ### The Du Bois Challenge in Stata
 
-Article here: [Graph replication: The Du Bois Challenge](https://medium.com/the-stata-guide/graph-replication-the-du-bois-challenge-f0db93e719e6)
+*  Article: [Graph replication: The Du Bois Challenge](https://medium.com/the-stata-guide/graph-replication-the-du-bois-challenge-f0db93e719e6)
 
-Files here: https://github.com/asjadnaqvi/DuBoisChallenge-Stata
-
-
+*  Files: https://github.com/asjadnaqvi/DuBoisChallenge-Stata
 
 
 
 ### 30 Day Map Challenge 2021
 
-See my entries for the [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata.
+*  GitHub repository: [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata.
 
-A short write-up on [Medium here](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e).
+* Article:  [https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e).
 
 
 ### Stata presentations
 
-[Stata UK 2021 Keynote](./presentations/Stata_UK_conference_2021.pdf)
-[Stata Oceania 2022 Keynote](./presentations/Stata_Oceania_conference_Feb2022.pdf)
+*  [Stata UK 2021 Keynote](./presentations/Stata_UK_conference_2021.pdf)
+*  [Stata Oceania 2022 Keynote](./presentations/Stata_Oceania_conference_Feb2022.pdf)
 
 ### Cheat Sheets
 
 
-[Regular Expressions Cheatsheet](./Cheatsheets/Stata_regex_cheatsheet_v1.pdf)
+*  [Regular Expressions Cheatsheet](./Cheatsheets/Stata_regex_cheatsheet_v1.pdf)
 
 <img src="./Cheatsheets/Stata_regex_cheatsheet_v1.png" height="400" title="regex">
 
 
 
-[Mata Cheatsheet](./Cheatsheets/MATA_cheatsheet_v3.pdf)
+*   [Mata Cheatsheet](./Cheatsheets/MATA_cheatsheet_v3.pdf)
 
 <img src="./Cheatsheets/MATA_cheatsheet_v3.png" height="800" title="mata">
 
