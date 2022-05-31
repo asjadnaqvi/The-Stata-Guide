@@ -10,7 +10,13 @@ The guides marked with :triangular_flag_on_post: get periodic updates.
 
 **2022**
 
-[Stata graphs: Circular bar graphs](https://medium.com/the-stata-guide/stata-graphs-circular-bar-graphs-8180ea783826) *(11 March 2022)*
+[Stata graphs: Half Sunburst plot](https://medium.com/the-stata-guide/stata-graphs-half-sunburst-plot-19131cf40446) *(29 Apr 2022)*
+
+[Stata graphs: Mosaic (Marimekko) plots](https://medium.com/the-stata-guide/stata-graphs-mosaic-marimekko-plots-49caa27c5554) *(20 Apr 2022)*
+
+[The Power of Precision](https://medium.com/the-stata-guide/the-power-of-precision-f66a68c99bfc) *(05 Apr 2022)*
+
+[Stata graphs: Circular bar graphs](https://medium.com/the-stata-guide/stata-graphs-circular-bar-graphs-8180ea783826) *(11 Mar 2022)*
 
 [The awesome Stata Tips collection!](https://medium.com/the-stata-guide/the-awesome-stata-tips-collection-6805afdedffa) :triangular_flag_on_post: *(11 Jan 2022)*
 
