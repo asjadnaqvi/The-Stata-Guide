@@ -1,14 +1,22 @@
 # Welcome to the Stata Guide!
 
-This repository contains various links and files to help you navigate [**The Stata Guide on Medium**](https://medium.com/the-stata-guide). If you have not visited the Medium publication page, you can get an overview in the [Welcome to the Stata Guide](https://medium.com/the-stata-guide/welcome-to-the-stata-guide-12adf81ec3d) article.
+This repository contains various links and files to help you navigate [**The Stata Guide on Medium**](https://medium.com/the-stata-guide) and my contributions to the [**The Stata Gallery**](https://medium.com/the-stata-gallery). You can get an overview in the [Welcome to the Stata Guide](https://medium.com/the-stata-guide/welcome-to-the-stata-guide-12adf81ec3d) article to help you navigate.
 
 
-### The list of guides (date published in brackets)
+## The list of guides (date published in brackets)
 
-The guides marked with :triangular_flag_on_post: get periodic updates.
+The guides marked with :triangular_flag_on_post: get periodic updates. The ones marked with :trophy: are published in [**The Stata Gallery**](https://medium.com/the-stata-gallery): 
 
 
 **2022**
+
+[Spirographs and Parametric plots in Stata](https://medium.com/the-stata-gallery/spirographs-and-parametric-plots-in-stata-960e332aa035) :trophy:  *(20 Jun 2022)* 
+
+[Drawing NYT’s spiral plot in Stata](https://medium.com/the-stata-gallery/drawing-nyts-spiral-plot-in-stata-aee1c640f345) :trophy: *(17 Jun 2022)*
+
+[Welcome to the Stata Gallery](https://medium.com/the-stata-gallery/welcome-to-the-stata-gallery-5d55aab35e9b) :trophy: *(16 Jun 2022)*
+
+[Stata graphs: Waterfall charts](https://medium.com/the-stata-guide/stata-graphs-waterfall-charts-b23d063a5535)  *(15 Jun 2022)*
 
 [Stata graphs: Half Sunburst plot](https://medium.com/the-stata-guide/stata-graphs-half-sunburst-plot-19131cf40446) *(29 Apr 2022)*
 
@@ -115,10 +123,26 @@ The guides marked with :triangular_flag_on_post: get periodic updates.
 [COVID-19 visualizations with Stata Part 1: An Introduction to data setup and customized graphs](https://medium.com/the-stata-guide/covid-19-data-visualization-with-stata-part-1-an-introduction-to-data-setup-and-customized-6b879a1e8647)	*(25-Aug-20)*
 
 
-### Stata "schemepack" for graphs
-https://github.com/asjadnaqvi/Stata-schemes (now on SSC!)
+## Stata packages
 
-### The Du Bois Challenge in Stata
+* [schemepack](https://github.com/asjadnaqvi/Stata-schemes) ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-schemes): A suite of Stata schemes.
+
+* [bimap](https://github.com/asjadnaqvi/stata-bimap) ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-bimap): Package for bi-variate maps.
+
+* [joyplot](https://github.com/asjadnaqvi/stata-joyplot) ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-joyplot): Package for ridgeline plots.
+
+* [streamplot](https://github.com/asjadnaqvi/stata-streamplot) ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-streamplot):  Package for streamplots.
+
+* [delaunay](https://github.com/asjadnaqvi/stata-delaunay-voronoi) ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-delaunay-voronoi): Delauanay triangulation, convex hull, voronoi tesselations.
+
+* [clipgeo](https://github.com/asjadnaqvi/stata-clipgeo) ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-clipgeo): A package for polygon and polyline clipping.
+
+* [drdid](https://github.com/friosavila/csdid_drdid): Doubly robust DiD estimator based on [Sant'Anna and Zhao (2020)](https://psantanna.com/DRDID/)
+
+
+## Miscellaneous
+
+- The Du Bois Challenge in Stata
 
 *  Article: [Graph replication: The Du Bois Challenge](https://medium.com/the-stata-guide/graph-replication-the-du-bois-challenge-f0db93e719e6)
 
@@ -126,19 +150,21 @@ https://github.com/asjadnaqvi/Stata-schemes (now on SSC!)
 
 
 
-### 30 Day Map Challenge 2021
-
-*  GitHub repository: [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata.
+- 30 Day Map Challenge 2021
 
 * Article:  [https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e).
 
+* Files: [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata.
 
-### Stata presentations
+
+
+
+## Stata presentations
 
 *  [Stata UK 2021 Keynote](./presentations/Stata_UK_conference_2021.pdf)
 *  [Stata Oceania 2022 Keynote](./presentations/Stata_Oceania_conference_Feb2022.pdf)
 
-### Cheat Sheets
+## Cheat Sheets and posters
 
 
 *  [Regular Expressions Cheatsheet](./Cheatsheets/Stata_regex_cheatsheet_v1.pdf)
@@ -147,13 +173,13 @@ https://github.com/asjadnaqvi/Stata-schemes (now on SSC!)
 
 
 
-*   [Mata Cheatsheet](./Cheatsheets/MATA_cheatsheet_v3.pdf)
+*  [Mata Cheatsheet](./Cheatsheets/MATA_cheatsheet_v3.pdf)
 
 <img src="./Cheatsheets/MATA_cheatsheet_v3.png" height="800" title="mata">
 
 
 
-### Have questions?
+## Have questions?
 
 Hop in the [The Code Block](https://discord.gg/qpHZtX6Xkk) Discord server and ask your questions!
 
