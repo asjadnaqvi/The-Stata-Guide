@@ -8,7 +8,7 @@ This repository contains various links and files to help you navigate [**The Sta
 The guides marked with :triangular_flag_on_post: get periodic updates. The ones marked with :trophy: are published in [**The Stata Gallery**](https://medium.com/the-stata-gallery). First publication date given in brackets.
 
 
-**2022**
+###2022###
 
 [Spirographs and Parametric plots in Stata](https://medium.com/the-stata-gallery/spirographs-and-parametric-plots-in-stata-960e332aa035) :trophy:  *(20 Jun 2022)* 
 
@@ -31,7 +31,7 @@ The guides marked with :triangular_flag_on_post: get periodic updates. The ones 
 [The Stata Frames guide](https://medium.com/the-stata-guide/the-stata-frames-guide-1149b50864e3) *(04 Jan 2022)*
 
 
-**2021**
+###2021###
 
 [Stata graphs: Tilemaps part II - USA](https://medium.com/the-stata-guide/stata-graphs-tilemaps-part-ii-usa-48355d366157)  *(16 Dec 2021)*
 
@@ -90,7 +90,7 @@ The guides marked with :triangular_flag_on_post: get periodic updates. The ones 
 [Stata graphs: How to add arrows to your line graphs](https://medium.com/the-stata-guide/stata-graphs-how-to-add-arrows-to-your-line-graphs-69c1c08949c7)	*(07-Jan-21)*
 
 
-**2020**
+###2020###
 
 [Why the Stata Guide on Medium?](https://medium.com/the-stata-guide/why-the-stata-guide-on-medium-4b9b9d00a172)	*(12-Dec-20)*
 
