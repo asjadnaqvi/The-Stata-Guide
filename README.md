@@ -3,9 +3,9 @@
 This repository contains various links and files to help you navigate [**The Stata Guide on Medium**](https://medium.com/the-stata-guide) and my contributions to the [**The Stata Gallery**](https://medium.com/the-stata-gallery). You can get an overview in the [Welcome to the Stata Guide](https://medium.com/the-stata-guide/welcome-to-the-stata-guide-12adf81ec3d) article to help you navigate.
 
 
-## The list of guides (date published in brackets)
+## The list of guides
 
-The guides marked with :triangular_flag_on_post: get periodic updates. The ones marked with :trophy: are published in [**The Stata Gallery**](https://medium.com/the-stata-gallery): 
+The guides marked with :triangular_flag_on_post: get periodic updates. The ones marked with :trophy: are published in [**The Stata Gallery**](https://medium.com/the-stata-gallery). First publication date given in brackets.
 
 
 **2022**
@@ -127,7 +127,7 @@ The guides marked with :triangular_flag_on_post: get periodic updates. The ones 
 
 A list of my Stata packages:
 
-|Package|Version|Updated|Documentation|
+|Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
 | [bimap](https://github.com/asjadnaqvi/stata-bimap) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-bimap) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-bimap) | Package for bi-variate maps |
 | [joyplot](https://github.com/asjadnaqvi/stata-joyplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-joyplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-joyplot) | Package for ridgeline plots |
