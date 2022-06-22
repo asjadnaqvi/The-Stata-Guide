@@ -187,7 +187,7 @@ I get a lot of e-mails with code and data files and now it is hard to keep track
 
 
 
-### How can you support the guides?
+## How can you support the guides?
 
 These guides are meant as a public service and I really enjoy writing them and getting feedback from you guys. 
 
