@@ -3,12 +3,19 @@
 This repository contains various links and files to help you navigate [**The Stata Guide on Medium**](https://medium.com/the-stata-guide) and my contributions to the [**The Stata Gallery**](https://medium.com/the-stata-gallery). You can get an overview in the [Welcome to the Stata Guide](https://medium.com/the-stata-guide/welcome-to-the-stata-guide-12adf81ec3d) article to help you navigate.
 
 
+:zap: All the data files used in various guides were moved to a single folder [data](/data). If you are using one of the earlier guides, and the link has not been updated there, then please go to the file in the folder and update the link. Also let me know by creating an [Issue](https://github.com/asjadnaqvi/The-Stata-Guide/issues).
+
+
 ## The list of guides
 
 The guides marked with :triangular_flag_on_post: get periodic updates. The ones marked with :trophy: are published in [**The Stata Gallery**](https://medium.com/the-stata-gallery). First publication date given in brackets.
 
 
 ### 2022
+
+[Parsing Stata dofiles for variable lists](https://medium.com/the-stata-gallery/parsing-dofiles-to-check-which-variables-are-used-3a355d27487c) :trophy: *(05 Jul 2022)*
+
+[Stata graphs: Circular Bar Graphs II](https://medium.com/the-stata-guide/stata-graphs-circular-bar-graphs-ii-8ae960ec49d6) *(23 Jun 2022)*
 
 [Spirographs and Parametric plots in Stata](https://medium.com/the-stata-gallery/spirographs-and-parametric-plots-in-stata-960e332aa035) :trophy:  *(20 Jun 2022)* 
 
