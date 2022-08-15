@@ -3,7 +3,7 @@
 This repository contains various links and files to help you navigate [**The Stata Guide on Medium**](https://medium.com/the-stata-guide) and my contributions to the [**The Stata Gallery**](https://medium.com/the-stata-gallery). You can get an overview in the [Welcome to the Stata Guide](https://medium.com/the-stata-guide/welcome-to-the-stata-guide-12adf81ec3d) article to help you navigate.
 
 
-:zap: All the data files used in various guides were moved to a single folder [data](/data). If you are using one of the earlier guides, and the link has not been updated there, then please go to the file in the folder and update the link. Also let me know by creating an [Issue](https://github.com/asjadnaqvi/The-Stata-Guide/issues).
+:zap: All the data files used in various guides were moved to a single folder [data](/data). If you are using one of the earlier guides, and the link has not been updated there, then please go to the [data](/data) folder, click on the file, and right click on the "raw", and copy link address. Also let me know by creating an [Issue](https://github.com/asjadnaqvi/The-Stata-Guide/issues) so I can fix these asap.
 
 
 ## The list of guides
