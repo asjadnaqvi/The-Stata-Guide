@@ -147,15 +147,14 @@ A list of my Stata packages:
 
 ## Miscellaneous
 
-- The Du Bois Challenge in Stata
+The Du Bois Challenge in Stata
 
 *  Article: [Graph replication: The Du Bois Challenge](https://medium.com/the-stata-guide/graph-replication-the-du-bois-challenge-f0db93e719e6)
 
 *  Files: https://github.com/asjadnaqvi/DuBoisChallenge-Stata
 
 
-
-- 30 Day Map Challenge 2021
+30 Day Map Challenge 2021
 
 * Article:  [https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e).
 
