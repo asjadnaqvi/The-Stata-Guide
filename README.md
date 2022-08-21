@@ -136,6 +136,7 @@ A list of my Stata packages:
 
 |Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
+| [arcplot](https://github.com/asjadnaqvi/stata-arcplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-arcplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-arcplot) | Package for arc plots |
 | [bimap](https://github.com/asjadnaqvi/stata-bimap) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-bimap) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-bimap) | Package for bi-variate maps |
 | [joyplot](https://github.com/asjadnaqvi/stata-joyplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-joyplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-joyplot) | Package for ridgeline plots |
 | [streamplot](https://github.com/asjadnaqvi/stata-streamplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-streamplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-streamplot) | Package for streamplots |
