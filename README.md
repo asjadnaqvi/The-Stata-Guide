@@ -170,9 +170,9 @@ The Du Bois Challenge in Stata
 ## Stata presentations
 
 
-*  [Stata UK 2022](./presentations/Stata_UK_conference_2021.pdf) (Sep 2022)
+*  [Stata UK 2022](./presentations/Stata_UK_conference_Sep2022.pdf) (Sep 2022)
 *  [Stata Oceania 2022](./presentations/Stata_Oceania_conference_Feb2022.pdf) (Feb 2022)
-*  [Stata UK 2021](./presentations/Stata_UK_conference_2021.pdf) (Sep 2021)
+*  [Stata UK 2021](./presentations/Stata_UK_conference_Sep2021.pdf) (Sep 2021)
 
 
 ## Cheat Sheets and posters
