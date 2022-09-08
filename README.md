@@ -136,7 +136,10 @@ A list of my Stata packages:
 
 |Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
+| [treemap](https://github.com/asjadnaqvi/stata-treemap) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treemap) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treemap) | Package for tree maps |
+| [circlepack](https://github.com/asjadnaqvi/stata-circlepack) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-circlepack) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-circlepack) | Package for circlepacking |
 | [arcplot](https://github.com/asjadnaqvi/stata-arcplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-arcplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-arcplot) | Package for arc plots |
+| [marimekko](https://github.com/asjadnaqvi/stata-marimekko) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-marimekko) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-marimekko) | Package for Marimekko charts |
 | [bimap](https://github.com/asjadnaqvi/stata-bimap) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-bimap) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-bimap) | Package for bi-variate maps |
 | [joyplot](https://github.com/asjadnaqvi/stata-joyplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-joyplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-joyplot) | Package for ridgeline plots |
 | [streamplot](https://github.com/asjadnaqvi/stata-streamplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-streamplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-streamplot) | Package for streamplots |
