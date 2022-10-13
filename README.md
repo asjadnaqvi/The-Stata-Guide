@@ -136,6 +136,7 @@ A list of my Stata packages:
 
 |Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
+| [spider](https://github.com/asjadnaqvi/stata-spider) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-spider) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-spider) | Package for spider plots |
 | [treemap](https://github.com/asjadnaqvi/stata-treemap) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treemap) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treemap) | Package for tree maps |
 | [circlepack](https://github.com/asjadnaqvi/stata-circlepack) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-circlepack) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-circlepack) | Package for circlepacking |
 | [arcplot](https://github.com/asjadnaqvi/stata-arcplot) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-arcplot) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-arcplot) | Package for arc plots |
