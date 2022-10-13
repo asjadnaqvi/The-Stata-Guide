@@ -13,6 +13,8 @@ The guides marked with :triangular_flag_on_post: get periodic updates. The ones 
 
 ### 2022
 
+[Stata graph tips for academic articles](https://medium.com/the-stata-guide/stata-graph-tips-for-academic-articles-8d962d5e8b75) *(16 Sep 2022)*
+
 [Parsing Stata dofiles for variable lists](https://medium.com/the-stata-gallery/parsing-dofiles-to-check-which-variables-are-used-3a355d27487c) :trophy: *(05 Jul 2022)*
 
 [Stata graphs: Circular Bar Graphs II](https://medium.com/the-stata-guide/stata-graphs-circular-bar-graphs-ii-8ae960ec49d6) *(23 Jun 2022)*
