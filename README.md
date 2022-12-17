@@ -138,7 +138,7 @@ A list of my Stata packages:
 
 |Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
-| [sankey](https://github.com/asjadnaqvi/stata-sankey) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-sankey) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-sankey) | Package for Stankey diagrams |
+| [sankey](https://github.com/asjadnaqvi/stata-sankey) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-sankey) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-sankey) | Package for Sankey diagrams |
 | [alluvial](https://github.com/asjadnaqvi/stata-alluvial) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-alluvial) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-alluvial) | Package for Alluvial charts |
 | [circlebar](https://github.com/asjadnaqvi/stata-circlebar) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-circlebar) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-circlebar) | Package for polar bar graphs |
 | [spider](https://github.com/asjadnaqvi/stata-spider) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-spider) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-spider) | Package for spider plots |
