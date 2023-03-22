@@ -183,14 +183,9 @@ The Du Bois Challenge in Stata
 ## Cheat Sheets and posters
 
 
-*  [Regular Expressions Cheatsheet](./Cheatsheets/Stata_regex_cheatsheet_v1.pdf)
-
-<img src="./Cheatsheets/Stata_regex_cheatsheet_v1.png" height="400" title="regex">
-
-
-
 *  Mata CheatSheet has been moved to the [ReviseResubmit](https://www.etsy.com/shop/ReviseResubmit) Etsy, where you can order it as a poster with free shipping anywhere in the world!
 
+*  Regular Expressions Cheatsheet: coming soon!
 
 
 ## Have questions?
