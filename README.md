@@ -189,9 +189,7 @@ The Du Bois Challenge in Stata
 
 
 
-*  [Mata Cheatsheet](./Cheatsheets/MATA_cheatsheet_v3.pdf)
-
-<img src="./Cheatsheets/MATA_cheatsheet_v3.png" height="800" title="mata">
+*  Mata CheatSheet has been moved to the [ReviseResubmit](https://www.etsy.com/shop/ReviseResubmit) Etsy, where you can order it as a poster with free shipping anywhere in the world!
 
 
 
