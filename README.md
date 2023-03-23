@@ -171,21 +171,25 @@ The Du Bois Challenge in Stata
 
 
 
-
 ## Stata presentations
 
 
-*  [Stata UK 2022](./presentations/Stata_UK_conference_Sep2022.pdf) (Sep 2022)
-*  [Stata Oceania 2022](./presentations/Stata_Oceania_conference_Feb2022.pdf) (Feb 2022)
-*  [Stata UK 2021](./presentations/Stata_UK_conference_Sep2021.pdf) (Sep 2021)
+*  [StataViz I](./presentations/Stata_DataViz_1_UK_Sep2021.pdf) (Stata UK Conference, Sep 2021)
+*  [StataViz II](./presentations/Stata_DataViz_2_Oceania_Feb2022.pdf) (Stata Oceania Conference, Feb 2022)
+*  [StataViz III](./presentations/Stata_DataViz_3_UK_Sep2022.pdf) (Stata UK Conference, Sep 2022)
+*  [StataViz IV](./presentations/Stata_DataViz_4_Switzerland_Nov22.pdf) (Stata Switzerland Conference, Nov 2022)
+*  [StataViz V](./presentations/Stata_DataViz_5_Oceania_Feb2023.pdf) (Stata Oceania Conference, Feb 2023)
+
 
 
 ## Cheat Sheets and posters
 
+Cheat Sheets can be either downloaded as digital files for printing for a small fee, or ordered as posters at the [ReviseResubmit](https://www.etsy.com/shop/ReviseResubmit) Etsy shop.
 
-*  Mata CheatSheet has been moved to the [ReviseResubmit](https://www.etsy.com/shop/ReviseResubmit) Etsy, where you can order it as a poster with free shipping anywhere in the world!
+The follow two are currently available:
 
-*  Regular Expressions Cheatsheet: coming soon!
+*  Mata CheatSheet
+*  Regular Expressions CheatSheet
 
 
 ## Have questions?
