@@ -142,6 +142,8 @@ A list of my Stata packages:
 
 |Package|Version|Updated|Description|
 |----| ---- | ---- | ----- |
+| [treecluster](https://github.com/asjadnaqvi/stata-treecluster) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-treecluster) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-treecluster) | Package for clustered trees |
+| [sunburst](https://github.com/asjadnaqvi/stata-sunburst) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-sunburst) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-sunburst) | Package for sunburst diagrams |
 | [sankey](https://github.com/asjadnaqvi/stata-sankey) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-sankey) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-sankey) | Package for Sankey diagrams |
 | [alluvial](https://github.com/asjadnaqvi/stata-alluvial) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-alluvial) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-alluvial) | Package for Alluvial charts |
 | [circlebar](https://github.com/asjadnaqvi/stata-circlebar) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-circlebar) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-circlebar) | Package for polar bar graphs |
