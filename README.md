@@ -184,7 +184,7 @@ The Du Bois Challenge in Stata
 
 ## Cheat Sheets and posters
 
-Cheat Sheets can be either downloaded as digital files for printing for a small fee, or ordered as posters at the [ReviseResubmit](https://www.etsy.com/shop/ReviseResubmit) Etsy shop.
+Cheat Sheets can be either downloaded as digital files for a small fee, or ordered as posters on the [ReviseResubmit](https://www.etsy.com/shop/ReviseResubmit) Etsy shop.
 
 The follow two are currently available:
 
