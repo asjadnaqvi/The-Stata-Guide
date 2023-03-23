@@ -11,6 +11,10 @@ This repository contains various links and files to help you navigate [**The Sta
 The guides marked with :triangular_flag_on_post: get periodic updates. The ones marked with :trophy: are published in [**The Stata Gallery**](https://medium.com/the-stata-gallery). First publication date given in brackets.
 
 
+### 2023
+
+[Updates from 2022 and plans for 2023](https://medium.com/the-stata-guide/updates-from-2022-and-plans-for-2023-6673be5f8de8) *(5 Jan 2023)*
+
 ### 2022
 
 [Stata graph tips for academic articles](https://medium.com/the-stata-guide/stata-graph-tips-for-academic-articles-8d962d5e8b75) *(16 Sep 2022)*
