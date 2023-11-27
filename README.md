@@ -13,7 +13,11 @@ The guides marked with :triangular_flag_on_post: get periodic updates. The ones 
 
 ### 2023
 
-[Updates from 2022 and plans for 2023](https://medium.com/the-stata-guide/updates-from-2022-and-plans-for-2023-6673be5f8de8) *(5 Jan 2023)*
+[Maps in Stata III: geoplot](https://medium.com/the-stata-guide/maps-in-stata-iii-geoplot-a764cf42688a) *(02 Jul 2023)*
+
+[Stata graphs: Raincloud plots](https://medium.com/the-stata-guide/stata-graphs-raincloud-plots-577473033c11) *(29 Mar 2023)*
+
+[Updates from 2022 and plans for 2023](https://medium.com/the-stata-guide/updates-from-2022-and-plans-for-2023-6673be5f8de8) *(05 Jan 2023)*
 
 ### 2022
 
