@@ -199,12 +199,12 @@ The Du Bois Challenge in Stata
 
 ## Cheat Sheets and posters
 
-Cheat Sheets can be either downloaded from the [cheatsheet](./cheatsheet) folder.
+Cheat Sheets can be either downloaded from the [cheatsheets](./cheatsheets) folder.
 
 The follow two are currently available:
 
-*  Mata CheatSheet
-*  Regular Expressions CheatSheet
+*  A0 poster of a [Mata CheatSheet](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/cheatsheets/MATA_cheatsheet_v3.pdf)
+*  A3 poster of a [Regular Expressions CheatSheet](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/cheatsheets/Stata_regex_cheatsheet_v1.pdf)
 
 
 ## Have questions?
