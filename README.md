@@ -208,9 +208,7 @@ The Du Bois Challenge in Stata
 
 * Article on Medium:  [Doing the 30 Day Chart Challenge](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e).
 
-* Files: [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata.
-
-
+* Files: [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20 out of 29 maps were made in Stata.
 
 
 ## Discord server
