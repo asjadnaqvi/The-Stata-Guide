@@ -199,14 +199,14 @@ The follow two are currently available:
 
 The Du Bois Challenge in Stata
 
-*  Article: [Graph replication: The Du Bois Challenge](https://medium.com/the-stata-guide/graph-replication-the-du-bois-challenge-f0db93e719e6)
+*  Article on Medium: [Graph replication: The Du Bois Challenge](https://medium.com/the-stata-guide/graph-replication-the-du-bois-challenge-f0db93e719e6)
 
 *  Files: https://github.com/asjadnaqvi/DuBoisChallenge-Stata
 
 
 30 Day Map Challenge 2021
 
-* Article:  [https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e).
+* Article on Medium:  [Doing the 30 Day Chart Challenge](https://medium.com/the-stata-guide/doing-the-2021-30daymapchallenge-with-stata-b1e72f8af78e).
 
 * Files: [#30DayMapChallenge](https://github.com/asjadnaqvi/30DayMapChallenge2021). 20/29 maps were made in Stata.
 
