@@ -2,8 +2,13 @@
 
 This repository contains various links and files to help you navigate [**The Stata Guide on Medium**](https://medium.com/the-stata-guide) and my contributions to the [**The Stata Gallery**](https://medium.com/the-stata-gallery). You can get an overview in the [Welcome to the Stata Guide](https://medium.com/the-stata-guide/welcome-to-the-stata-guide-12adf81ec3d) article to help you navigate.
 
-
 :zap: All the data files used in various guides were moved to a single folder [data](/data). If you are using one of the earlier guides, and the link has not been updated there, then please go to the [data](/data) folder, click on the file, and right click on the "raw", and copy link address. Also let me know by creating an [Issue](https://github.com/asjadnaqvi/The-Stata-Guide/issues) so I can fix these asap.
+
+[List of guides](#The-list-of-guides) | [Stata packages](#Stata-packages) | [Cheat Sheets](#Cheat-Sheets) | [Stata presentations](#Stata-presentations) | [Miscellaneous](#Miscellaneous) | [Discord](#Discord-server)  | [Support!](#How-can-you-support-the-guides?)
+
+---
+
+
 
 
 ## The list of guides
@@ -169,6 +174,27 @@ A list of my Stata packages:
 | [waffle](https://github.com/asjadnaqvi/stata-waffle) | ![version](https://img.shields.io/github/v/release/asjadnaqvi/stata-waffle) | ![release](https://img.shields.io/github/release-date/asjadnaqvi/stata-waffle) | Package for waffle plots |
 
 
+
+## Cheat Sheets
+
+Cheat Sheets can be either downloaded from the [cheatsheets](./cheatsheets) folder.
+
+The follow two are currently available:
+
+*  A0 poster of a [Mata CheatSheet](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/cheatsheets/MATA_cheatsheet_v3.pdf)
+*  A3 poster of a [Regular Expressions CheatSheet](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/cheatsheets/Stata_regex_cheatsheet_v1.pdf)
+
+## Stata presentations
+
+
+*  [StataViz I](./presentations/Stata_DataViz_1_UK_Sep2021.pdf) (Stata UK Conference, Sep 2021)
+*  [StataViz II](./presentations/Stata_DataViz_2_Oceania_Feb2022.pdf) (Stata Oceania Conference, Feb 2022)
+*  [StataViz III](./presentations/Stata_DataViz_3_UK_Sep2022.pdf) (Stata UK Conference, Sep 2022)
+*  [StataViz IV](./presentations/Stata_DataViz_4_Switzerland_Nov22.pdf) (Stata Switzerland Conference, Nov 2022)
+*  [StataViz V](./presentations/Stata_DataViz_5_Oceania_Feb2023.pdf) (Stata Oceania Conference, Feb 2023)
+
+
+
 ## Miscellaneous
 
 The Du Bois Challenge in Stata
@@ -186,28 +212,8 @@ The Du Bois Challenge in Stata
 
 
 
-## Stata presentations
 
-
-*  [StataViz I](./presentations/Stata_DataViz_1_UK_Sep2021.pdf) (Stata UK Conference, Sep 2021)
-*  [StataViz II](./presentations/Stata_DataViz_2_Oceania_Feb2022.pdf) (Stata Oceania Conference, Feb 2022)
-*  [StataViz III](./presentations/Stata_DataViz_3_UK_Sep2022.pdf) (Stata UK Conference, Sep 2022)
-*  [StataViz IV](./presentations/Stata_DataViz_4_Switzerland_Nov22.pdf) (Stata Switzerland Conference, Nov 2022)
-*  [StataViz V](./presentations/Stata_DataViz_5_Oceania_Feb2023.pdf) (Stata Oceania Conference, Feb 2023)
-
-
-
-## Cheat Sheets and posters
-
-Cheat Sheets can be either downloaded from the [cheatsheets](./cheatsheets) folder.
-
-The follow two are currently available:
-
-*  A0 poster of a [Mata CheatSheet](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/cheatsheets/MATA_cheatsheet_v3.pdf)
-*  A3 poster of a [Regular Expressions CheatSheet](https://github.com/asjadnaqvi/The-Stata-Guide/blob/master/cheatsheets/Stata_regex_cheatsheet_v1.pdf)
-
-
-## Have questions?
+## Discord server
 
 Hop in the [The Code Block](https://discord.gg/qpHZtX6Xkk) Discord server and ask your questions!
 
