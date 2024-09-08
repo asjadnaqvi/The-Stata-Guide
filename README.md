@@ -24,9 +24,9 @@ The guides marked with :triangular_flag_on_post: get periodic updates. The ones 
 
 ### 2023
 
-[Maps in Stata III: geoplot](https://medium.com/the-stata-guide/maps-in-stata-iii-geoplot-a764cf42688a) *(updated Jul 2024)*
+[Reproducing a viral USA tilemap in Stata](https://medium.com/the-stata-gallery/reproducing-a-viral-usa-tilemap-in-stata-e2d3b53346f4) (*26 Aug 2023*)
 
-[Reproducing a viral USA tilemap in Stata](https://medium.com/the-stata-gallery/reproducing-a-viral-usa-tilemap-in-stata-e2d3b53346f4)
+[Maps in Stata III: geoplot](https://medium.com/the-stata-guide/maps-in-stata-iii-geoplot-a764cf42688a) *(02 Jul 2023)* *(Updated: 15 Jul 2024)*
 
 [Stata graphs: Raincloud plots](https://medium.com/the-stata-guide/stata-graphs-raincloud-plots-577473033c11) *(29 Mar 2023)*
 
