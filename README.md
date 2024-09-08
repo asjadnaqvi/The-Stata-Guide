@@ -15,9 +15,18 @@ This repository contains various links and files to help you navigate [**The Sta
 The guides marked with :triangular_flag_on_post: get periodic updates. The ones marked with :trophy: are published in [**The Stata Gallery**](https://medium.com/the-stata-gallery). First publication date given in brackets.
 
 
+### 2024
+
+[A Guide to DataViz Books](https://medium.com/the-stata-guide/a-guide-to-dataviz-books-30d69480388a) *(09 Jul 2024)*
+
+[The BPLIM workflow for anonymizing confidential data for research](https://medium.com/the-stata-gallery/the-bplim-workflow-for-anonymizing-confidential-data-for-research-6ea4c0d01396) *(23 Apr 2024)*
+
+
 ### 2023
 
-[Maps in Stata III: geoplot](https://medium.com/the-stata-guide/maps-in-stata-iii-geoplot-a764cf42688a) *(02 Jul 2023)*
+[Maps in Stata III: geoplot](https://medium.com/the-stata-guide/maps-in-stata-iii-geoplot-a764cf42688a) *(updated Jul 2024)*
+
+[Reproducing a viral USA tilemap in Stata](https://medium.com/the-stata-gallery/reproducing-a-viral-usa-tilemap-in-stata-e2d3b53346f4)
 
 [Stata graphs: Raincloud plots](https://medium.com/the-stata-guide/stata-graphs-raincloud-plots-577473033c11) *(29 Mar 2023)*
 
