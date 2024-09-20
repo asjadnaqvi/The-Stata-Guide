@@ -1,9 +1,9 @@
 
 ****************************************************
 ****************************************************
-***												 ***
+***                                              ***
 *** Keynote: Maps in Stata - New Developments    ***
-*** Stata Oslo 2024 Conference					 ***         _,--',   _._.--._____
+*** Stata Oslo 2024 Conference                   ***         _,--',   _._.--._____
 ***                                              *** .--.--';_'-.', ";_      _.,-'
 *** Asjad Naqvi, PhD                             *** .'--'.  _.'    {`'-;_ .-.>.'
 ***                                              ***       '-:_      )  / `' '=.
@@ -13,8 +13,6 @@
 ***                                              ***
 ****************************************************
 ****************************************************
-
-
 
 
 clear 
@@ -227,13 +225,15 @@ geoplot ///
 		(area R i.ID, color(%80) lw(0.05) lc(white)) ///
 		(line nuts0, lc(black))	///
 		, nolegend			
+
+		
 		
 	geoplot ///
 		(area R i.ID, color(%80) lw(0.05) lc(white)) ///
 		(line nuts0, lc(black))	///
-		(point hospitals,  mc(black%50) msize(0.2)) ///
+		(point hospitals,  mc(black%50) msize(0.3)) ///
 		, nolegend	
-		
+	
 	
 	
 	// contract hospital locations with hex grids
