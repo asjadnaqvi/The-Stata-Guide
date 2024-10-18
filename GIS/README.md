@@ -2,7 +2,7 @@
 # GIS files
 
 
-*10 May 2023*
+*Last updated: 18 Oct 2024*
 
 
 This folder contains a backup of GIS shapefiles used in different guides. They have been modified or removed from official sources online. Until the guides are updated, you can use these files with the guides.
