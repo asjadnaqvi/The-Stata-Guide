@@ -9,6 +9,13 @@ This folder contains a backup of GIS shapefiles used in different guides. They h
 
 The following are available here:
 
+## Global files
+
+The world files `countries.dta` and `countries_shp.dta` are from the official [World Bank boundaries](https://datacatalog.worldbank.org/search/dataset/0038272/World-Bank-Official-Boundaries) version 3 page.
+Please see the website for more information.
+
+The remaining files, such as cities, lakes, etc. are from the [Natural Earth](https://www.naturalearthdata.com/) database.
+
 ## EU NUTS files
 
 - Raw `NUTS_RG_03M_2021_3035_mainland.xxx` shapefile from Eurostat GISCO with islands cleaned up.
