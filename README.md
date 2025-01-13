@@ -205,6 +205,7 @@ The follow two are currently available:
 *  [StataViz III](./presentations/Stata_DataViz_3_UK_Sep2022.pdf) (Stata UK Conference, Sep 2022)
 *  [StataViz IV](./presentations/Stata_DataViz_4_Switzerland_Nov22.pdf) (Stata Switzerland Conference, Nov 2022)
 *  [StataViz V](./presentations/Stata_DataViz_5_Oceania_Feb2023.pdf) (Stata Oceania Conference, Feb 2023)
+*  [StataViz VI](./presentations/Stata_DataViz_6_Oslo_Sep2024.pdf) (Stata Oslo Conference, Sep 2024)
 
 
 
